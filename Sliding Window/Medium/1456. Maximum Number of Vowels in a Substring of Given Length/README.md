@@ -2,7 +2,7 @@
 
 > **Problem Link**: [LeetCode - Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)  
 > **Level**: Medium  
-> **Language**: Python 3  
+> **Language**: C++, Python 3  
 
 ---
 
