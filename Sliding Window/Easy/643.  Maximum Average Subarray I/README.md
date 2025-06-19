@@ -2,7 +2,7 @@
 
 > **Problem Link**: [LeetCode - Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)  
 > **Level**: Easy  
-> **Language**: C++  
+> **Language**: C++, Python 
 
 ---
 
