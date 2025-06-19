@@ -2,7 +2,7 @@
 
 > **Problem Link**: [LeetCode - Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)  
 > **Level**: Medium  
-> **Language**: Python 3  
+> **Language**: C++, Python 3  
 
 ---
 
