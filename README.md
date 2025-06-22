@@ -64,10 +64,10 @@ Each problem includes:
 | 17 | Medium | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | ✅ Solved | C++, Python |
 | 18 | Easy | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | ✅ Solved | C++, Python |
 | 19 | Easy | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | ✅ Solved | C++, Python |
-<!--
 | 20 | Easy | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | ✅ Solved | C++, Python |
 | 21 | Easy | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | ✅ Solved | C++, Python |
 | 22 | Medium | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | ✅ Solved | C++, Python |
+<!--
 | 23 | Medium | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | ✅ Solved | C++, Python |
 | 24 | Medium | []() | ✅ Solved | C++, Python |
 | 25 | Medium | []() | ✅ Solved | C++, Python |
