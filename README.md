@@ -67,13 +67,13 @@ Each problem includes:
 | 20 | Easy | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | ✅ Solved | C++, Python |
 | 21 | Easy | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | ✅ Solved | C++, Python |
 | 22 | Medium | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | ✅ Solved | C++, Python |
-<!--
 | 23 | Medium | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | ✅ Solved | C++, Python |
-| 24 | Medium | []() | ✅ Solved | C++, Python |
-| 25 | Medium | []() | ✅ Solved | C++, Python |
-| 26 | Medium | []() | ✅ Solved | C++, Python |
-| 27 | Easy | []() | ✅ Solved | C++, Python |
-| 28 | Medium | []() | ✅ Solved | C++, Python |
+| 24 | Medium | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | ✅ Solved | C++, Python |
+<!--
+| 25 | Medium | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | ✅ Solved | C++, Python |
+| 26 | Medium | [Decode String](https://leetcode.com/problems/decode-string/) | ✅ Solved | C++, Python |
+| 27 | Easy | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | ✅ Solved | C++, Python |
+| 28 | Medium | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | ✅ Solved | C++, Python |
 | 29 | ... | []() | ✅ Solved | C++, Python |
 | 30 | ... | []() | ✅ Solved | C++, Python |
 -->
