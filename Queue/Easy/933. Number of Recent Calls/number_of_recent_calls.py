@@ -19,7 +19,7 @@ class RecentCounter:
         
 #Approach-II (Using Queue)
 #T.C.-> O(1)
-#S.C.-> O(total no. of pings)
+#S.C.-> O(no. of pings in last 3000ms)
 from collections import deque
 class RecentCounter:
 
