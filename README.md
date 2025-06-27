@@ -74,10 +74,10 @@ Each problem includes:
 | 27 | Easy | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | ✅ Solved | C++, Python |
 | 28 | Medium | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | ✅ Solved | C++, Python |
 | 29 | Medium | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | ✅ Solved | C++, Python |
-<!--
 | 30 | Medium | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅ Solved | C++, Python |
 | 31 | Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Solved | C++, Python |
 | 32 | Medium | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ✅ Solved | C++, Python |
+<!--
 | 33 | Easy | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ Solved | C++, Python |
 | 34 | Easy | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | ✅ Solved | C++, Python |
 | 35 | Medium | []() | ✅ Solved | C++, Python |
