@@ -2,7 +2,7 @@
 
 > 📎 **Problem Link**: [LeetCode - Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)  
 > 🟢 **Level**: Easy  
-> 🧑‍💻 **Language**: C++
+> 🧑‍💻 **Language**: C++, Python
 
 ---
 
