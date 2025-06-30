@@ -77,10 +77,10 @@ Each problem includes:
 | 30 | Medium | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅ Solved | C++, Python |
 | 31 | Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ Solved | C++, Python |
 | 32 | Medium | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | ✅ Solved | C++, Python |
-<!--
 | 33 | Easy | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ Solved | C++, Python |
 | 34 | Easy | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | ✅ Solved | C++, Python |
-| 35 | Medium | []() | ✅ Solved | C++, Python |
+| 35 | Medium | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ✅ Solved | C++, Python |
+<!--
 | 36 | Medium | []() | ✅ Solved | C++, Python |
 | 37 | Medium | []() | ✅ Solved | C++, Python |
 | 38 | Medium | []() | ✅ Solved | C++, Python |
