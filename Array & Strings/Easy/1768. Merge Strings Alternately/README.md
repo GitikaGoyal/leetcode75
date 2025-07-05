@@ -2,7 +2,7 @@
 
 > **Problem Link**: [LeetCode - Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)  
 > **Level**: Easy  
-> **Language**: C++, Python 3  
+> **Language**: C++, Python
 ---
 
 ## 🧠 Intuition
