@@ -80,12 +80,22 @@ Each problem includes:
 | 33 | Easy | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ Solved | C++, Python |
 | 34 | Easy | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | ✅ Solved | C++, Python |
 | 35 | Medium | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | ✅ Solved | C++, Python |
+| 36 | Medium | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | ✅ Solved | C++, Python |
+| 37 | Medium | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | ✅ Solved | C++, Python |
+| 38 | Medium | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ✅ Solved | C++, Python |
+| 39 | Medium | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | ✅ Solved | C++, Python |
+| 40 | Medium | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | ✅ Solved | C++, Python |
 <!--
-| 36 | Medium | []() | ✅ Solved | C++, Python |
-| 37 | Medium | []() | ✅ Solved | C++, Python |
-| 38 | Medium | []() | ✅ Solved | C++, Python |
-| 39 | ... | []() | ✅ Solved | C++, Python |
-| 40 | ... | []() | ✅ Solved | C++, Python |
+| 41 | ... | []() | ✅ Solved | C++, Python |
+| 42 | ... | []() | ✅ Solved | C++, Python |
+| 43 | ... | []() | ✅ Solved | C++, Python |
+| 44 | ... | []() | ✅ Solved | C++, Python |
+| 45 | ... | []() | ✅ Solved | C++, Python |
+| 46 | ... | []() | ✅ Solved | C++, Python |
+| 47 | ... | []() | ✅ Solved | C++, Python |
+| 48 | ... | []() | ✅ Solved | C++, Python |
+| 49 | ... | []() | ✅ Solved | C++, Python |
+| 50 | ... | []() | ✅ Solved | C++, Python |
 -->
 ---
 
